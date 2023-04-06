@@ -30,7 +30,7 @@ hr{
 }
 .description{
     
-    text-align:center;
+    text-align:justify;
     font-family: 'Roboto Slab', serif;
     padding-left: 100px;
     padding-right: 100px;
@@ -63,7 +63,6 @@ hr{
         position: relative;
         left: 28px;
     }
-    
 }
 .shape{
     width: 35%;
