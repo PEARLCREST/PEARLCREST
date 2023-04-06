@@ -6,10 +6,7 @@
 }
 body{
     margin: 0px;
-}
-
-.body{
-    background-color: #F5F5F5;
+    background-color: white;
 }
 
 hr{
@@ -30,10 +27,10 @@ hr{
 }
 .description{
     
-    text-align:justify;
+    text-align:center;
     font-family: 'Roboto Slab', serif;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 .list{
     
@@ -65,17 +62,17 @@ hr{
     }
 }
 .shape{
-    width: 35%;
-    border-radius: 20%;
+    width: 80%;
+    border-radius: 100%;
     margin: 20px;
-    border-color: white;
+    border-color: black;
     border-width: 5px;
     border-style: groove;
 }
 .testimonial{
     text-align: center;
-    color: #fff;
-    background-color: #171010;
-    padding: 7% 15%;
+    color: black;
+    
+    padding: 37% 0%;
     font-family: 'Roboto Slab', serif;
 }
