@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+html {
+  --sl: calc(2em + 1px) calc(3em + -.5px),
+  			transparent calc(3em + .5px);
+  background: radial-gradient(#fff 1em, #000 calc(1em + 1px) 2em, #fff var(--sl)) 4.2426406871em 4.2426406871em, repeating-conic-gradient(#000 0% 25%, transparent 0% 50%) 2.1213203436em 2.1213203436em, radial-gradient(#000 1em, #fff calc(1em + 1px) 2em, #000 var(--sl));
+  background-size: 8.4852813742em 8.4852813742em, 16.9705627485em 16.9705627485em;
+  background-blend-mode: lighten;
+}
