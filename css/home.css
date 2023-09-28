@@ -81,9 +81,12 @@ hr{
 }
 .footer{
     background-color: black;
-    padding-top: 25%;
+    padding-top: 8%;
 }
 .map{
     position: relative;
     padding-left: 2rem;
+}
+.footer-text{
+    color: grey;
 }
