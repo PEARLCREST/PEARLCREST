@@ -79,3 +79,11 @@ hr{
 .name{
     font-family: 'Oswald', sans-serif;
 }
+.footer{
+    background-color: black;
+    padding-top: 25%;
+}
+.map{
+    position: relative;
+    padding-left: 2rem;
+}
