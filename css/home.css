@@ -29,8 +29,8 @@ hr{
     
     text-align:justify;
     font-family: 'Roboto Slab', serif;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
 }
 .list{
     
@@ -85,8 +85,18 @@ hr{
 }
 .map{
     position: relative;
-    padding-left: 1rem;
+    padding-left: 2rem;
+    float: left;
+    width: 100%;
 }
 .footer-text{
     color: grey;
+}
+.dist-text > p{
+    position: relative;
+    left:40px;
+    top:20px;
+    font-size: 1rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
 }
